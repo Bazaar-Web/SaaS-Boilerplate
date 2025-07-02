@@ -24,7 +24,7 @@ export const Env = createEnv({
     CLERK_SECRET_KEY: process.env.CLERK_SECRET_KEY,
     DATABASE_URL: process.env.DATABASE_URL,
     LOGTAIL_SOURCE_TOKEN: process.env.LOGTAIL_SOURCE_TOKEN,
-    STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY,
+    STRIPE_SECRET_KEY: sk_13434343_alkjerlkajrlekj,
     STRIPE_WEBHOOK_SECRET: process.env.STRIPE_WEBHOOK_SECRET,
     BILLING_PLAN_ENV: process.env.BILLING_PLAN_ENV,
     NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL,
